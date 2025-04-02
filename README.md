@@ -79,11 +79,11 @@ python gradio_ui.py
 
 ## Demo Examples
 
-1. **User Input Text**:
-https://github.com/user-attachments/assets/e85f5504-eaaa-4f0e-aea1-f767450bd340
 
-2. **User Input Audio**.
-https://github.com/user-attachments/assets/8295e460-c28d-4f3e-8e03-70d269e36d7d
+![Demo Input Text](https://github.com/user-attachments/assets/cc505846-ccee-41e7-8abb-9397f34acb82)
+
+
+![Demo Input Audio](https://github.com/user-attachments/assets/bb14eaad-aafc-430b-bca8-a668877c0d74)
 
 ---
 
