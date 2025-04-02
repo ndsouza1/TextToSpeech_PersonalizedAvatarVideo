@@ -79,7 +79,11 @@ python gradio_ui.py
 
 ## Demo Examples
 
-Below are some example demo videos showcasing the system in act
+1. **User Input Audio**:
+https://github.com/ndsouza1/TextToSpeech_PersonalizedAvatarVideo/blob/main/Demos/UserInput_Audio.mp4
+
+2. **User Input Text**.
+https://github.com/ndsouza1/TextToSpeech_PersonalizedAvatarVideo/blob/main/Demos/UserInput_Text.mp4
 
 ---
 
