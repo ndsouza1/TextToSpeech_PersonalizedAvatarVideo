@@ -79,11 +79,11 @@ python gradio_ui.py
 
 ## Demo Examples
 
-1. **User Input Audio**:
-![Demo- UserInput_Audio](https://github.com/ndsouza1/TextToSpeech_PersonalizedAvatarVideo/blob/main/Demos/UserInput_Audio.mp4)
+1. **User Input Text**:
+https://github.com/user-attachments/assets/e85f5504-eaaa-4f0e-aea1-f767450bd340
 
-2. **User Input Text**.
-![Demo- UserInput_Text](https://github.com/ndsouza1/TextToSpeech_PersonalizedAvatarVideo/blob/main/Demos/UserInput_Text.mp4)
+2. **User Input Audio**.
+https://github.com/user-attachments/assets/8295e460-c28d-4f3e-8e03-70d269e36d7d
 
 ---
 
