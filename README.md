@@ -83,7 +83,7 @@ python gradio_ui.py
 ![Demo- UserInput_Audio](https://github.com/ndsouza1/TextToSpeech_PersonalizedAvatarVideo/blob/main/Demos/UserInput_Audio.mp4)
 
 2. **User Input Text**.
-![Demo- UserInput_Text]https://github.com/ndsouza1/TextToSpeech_PersonalizedAvatarVideo/blob/main/Demos/UserInput_Text.mp4
+![Demo- UserInput_Text](https://github.com/ndsouza1/TextToSpeech_PersonalizedAvatarVideo/blob/main/Demos/UserInput_Text.mp4)
 
 ---
 
