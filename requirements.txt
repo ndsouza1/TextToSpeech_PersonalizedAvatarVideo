@@ -1,0 +1,17 @@
+gradio==4.19.2  # Or the version you are using
+ollama
+torch
+ffmpeg-python
+TTS
+whisper
+gTTS
+soundfile
+#Wan2lip requirements
+librosa
+numpy
+opencv-contrib-python>=4.2.0.34
+opencv-python==4.1.0.25
+torch
+torchvision
+tqdm
+numba
