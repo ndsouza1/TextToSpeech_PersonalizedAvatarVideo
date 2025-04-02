@@ -35,8 +35,8 @@ Follow these steps to set up and run the project:
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/your-repo-name.git
-cd PersonalizedAvatarVideo
+git clone https://github.com/ndsouza1/TextToSpeech_PersonalizedAvatarVideo.git
+cd TextToSpeech_PersonalizedAvatarVideo
 ```
 
 ---
@@ -80,10 +80,10 @@ python gradio_ui.py
 ## Demo Examples
 
 1. **User Input Audio**:
-https://github.com/ndsouza1/TextToSpeech_PersonalizedAvatarVideo/blob/main/Demos/UserInput_Audio.mp4
+![Demo- UserInput_Audio](https://github.com/ndsouza1/TextToSpeech_PersonalizedAvatarVideo/blob/main/Demos/UserInput_Audio.mp4)
 
 2. **User Input Text**.
-https://github.com/ndsouza1/TextToSpeech_PersonalizedAvatarVideo/blob/main/Demos/UserInput_Text.mp4
+![Demo- UserInput_Text](https://github.com/ndsouza1/TextToSpeech_PersonalizedAvatarVideo/blob/main/Demos/UserInput_Text.mp4)
 
 ---
 
