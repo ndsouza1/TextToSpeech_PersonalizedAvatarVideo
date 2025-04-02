@@ -80,10 +80,10 @@ python gradio_ui.py
 ## Demo Examples
 
 
-![Demo Input Text](https://github.com/user-attachments/assets/cc505846-ccee-41e7-8abb-9397f34acb82)
+![Demo Input Text](https://github.com/user-attachments/assets/240206da-a95c-4930-8a48-ac09128deeff)
 
 
-![Demo Input Audio](https://github.com/user-attachments/assets/bb14eaad-aafc-430b-bca8-a668877c0d74)
+![Demo Input Audio](https://github.com/user-attachments/assets/16364074-096d-4f8c-8b7a-01ee1b073622)
 
 ---
 
