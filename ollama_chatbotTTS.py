@@ -1,18 +1,31 @@
 import ollama
+import json
+
+from pydantic import BaseModel
+
+class ChatResponse(BaseModel):
+    response: str
 
 class OllamaChat:
-    def __init__(self, model="deepseek-r1:7b"):
+    response: str
+
+    def __init__(self):
         """Initialize the Ollama model."""
-        self.model = model
+        self.model = "deepseek-r1:7b"
+        self.system_prompt="You are a concise and natural-sounding assistant.Answer questions briefly, in one or two sentences at most, as if responding for text-to-speech (TTS). Keep it natural and conversational"
 
     def get_response(self, user_input):
         """Processes the input text using Ollama and returns only the response string."""
         response = ollama.chat(
             model=self.model,
-            messages=[{"role": "user", "content": user_input}]
+            messages=[
+                {"role": "system", "content": self.system_prompt},
+                {"role": "user", "content": user_input}],
+            format=ChatResponse.model_json_schema()
         )
         
-        return response["message"]["content"]
+        response = json.loads(response["message"]["content"])["response"]
+        return response
 
 
 # Usage Example
