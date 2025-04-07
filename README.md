@@ -24,7 +24,7 @@ Users can:
 
 ## Block Diagram
 
-![Block Diagram](BlockDiagram.png)
+![Block Diagram](https://github.com/ndsouza1/TextToSpeech_PersonalizedAvatarVideo/blob/main/BlockDiagram.png)
 
 ---
 
